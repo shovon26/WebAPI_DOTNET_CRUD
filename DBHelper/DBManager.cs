@@ -1,7 +1,8 @@
 ﻿using Microsoft.Extensions.Configuration;
 using System.Data.SqlClient;
+using WebAPI.Model;
 
-namespace WebAPI.Model.DBHelper
+namespace WebAPI.DBHelper
 {
     public class DBManager
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using WebAPI.Model.DBHelper;
 using WebAPI.Model;
+using WebAPI.DBHelper;
 
 namespace WebAPI.Controllers
 {
